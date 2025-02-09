@@ -1,4 +1,4 @@
-#Streamify-dashboard
+# Streamify-dashboard
 
 A modern dashboard application for streaming analytics built with React, TypeScript, and Tailwind CSS.
 
