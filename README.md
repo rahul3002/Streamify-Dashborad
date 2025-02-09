@@ -15,7 +15,7 @@ This dashboard provides real-time analytics for streaming data, featuring key me
 1. Clone the repository:
 
 ```
-git clone https://github.com/rahulbagal/streamify-dashboard.git
+git@github.com:rahul3002/Streamify-Dashborad.git
 ```
 2. Install dependencies:
 
